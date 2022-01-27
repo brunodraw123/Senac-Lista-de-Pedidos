@@ -1,0 +1,16 @@
+C:\Users\Tatiane\Desktop\Senac\UC4\atividade1\bin\Debug\net5.0\atividade1.exe
+C:\Users\Tatiane\Desktop\Senac\UC4\atividade1\bin\Debug\net5.0\atividade1.deps.json
+C:\Users\Tatiane\Desktop\Senac\UC4\atividade1\bin\Debug\net5.0\atividade1.runtimeconfig.json
+C:\Users\Tatiane\Desktop\Senac\UC4\atividade1\bin\Debug\net5.0\atividade1.runtimeconfig.dev.json
+C:\Users\Tatiane\Desktop\Senac\UC4\atividade1\bin\Debug\net5.0\atividade1.dll
+C:\Users\Tatiane\Desktop\Senac\UC4\atividade1\bin\Debug\net5.0\ref\atividade1.dll
+C:\Users\Tatiane\Desktop\Senac\UC4\atividade1\bin\Debug\net5.0\atividade1.pdb
+C:\Users\Tatiane\Desktop\Senac\UC4\atividade1\obj\Debug\net5.0\atividade1.csprojAssemblyReference.cache
+C:\Users\Tatiane\Desktop\Senac\UC4\atividade1\obj\Debug\net5.0\atividade1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tatiane\Desktop\Senac\UC4\atividade1\obj\Debug\net5.0\atividade1.AssemblyInfoInputs.cache
+C:\Users\Tatiane\Desktop\Senac\UC4\atividade1\obj\Debug\net5.0\atividade1.AssemblyInfo.cs
+C:\Users\Tatiane\Desktop\Senac\UC4\atividade1\obj\Debug\net5.0\atividade1.csproj.CoreCompileInputs.cache
+C:\Users\Tatiane\Desktop\Senac\UC4\atividade1\obj\Debug\net5.0\atividade1.dll
+C:\Users\Tatiane\Desktop\Senac\UC4\atividade1\obj\Debug\net5.0\ref\atividade1.dll
+C:\Users\Tatiane\Desktop\Senac\UC4\atividade1\obj\Debug\net5.0\atividade1.pdb
+C:\Users\Tatiane\Desktop\Senac\UC4\atividade1\obj\Debug\net5.0\atividade1.genruntimeconfig.cache
